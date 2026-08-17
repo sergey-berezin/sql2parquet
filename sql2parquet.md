@@ -16,3 +16,7 @@
 
 * Утилита должна работать с большими запросами, ответ на которые превышает объем доступной памяти
 * Утилита загружает данные из базы и записывает в файл в паралелльных потоках
+
+# Progress indicator
+
+Utility displays progress indicator in console with row count, current size of data in megabytes and write throughput. 

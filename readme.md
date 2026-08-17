@@ -1,4 +1,4 @@
-# sql2parquent - simple fast command line utility to export SQL to parquent files
+# sql2parquet - simple fast command line utility to export SQL to parquent files
 
 ## 1. Сборка
 
